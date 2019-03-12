@@ -1,4 +1,4 @@
-# Stock_Clearing
+# Stock Clearing
 >### 청산결제의 개념
 
 - 결제(Settlement)
